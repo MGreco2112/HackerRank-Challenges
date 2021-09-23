@@ -13,16 +13,19 @@ public class Main {
 //        integers.add(9);
 //        System.out.println(ArraySum.simpleArraySum(integers));
         //[10, 20, 20, 10, 10, 30, 50, 10, 20]
-        integers.add(10);
-        integers.add(20);
-        integers.add(20);
-        integers.add(10);
-        integers.add(10);
-        integers.add(30);
-        integers.add(50);
-        integers.add(10);
-        integers.add(20);
-
-        System.out.println(SockMerchant.sockMerchant(9, integers));
+//        integers.add(10);
+//        integers.add(20);
+//        integers.add(20);
+//        integers.add(10);
+//        integers.add(10);
+//        integers.add(30);
+//        integers.add(50);
+//        integers.add(10);
+//        integers.add(20);
+//
+//        System.out.println(SockMerchant.sockMerchant(9, integers));
+//8
+        //UDDDUDUU
+        System.out.println(CountingValleys.countingValleys(8, "UDDDUDUU"));
     }
 }
