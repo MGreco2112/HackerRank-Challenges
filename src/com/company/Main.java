@@ -26,6 +26,19 @@ public class Main {
 //        System.out.println(SockMerchant.sockMerchant(9, integers));
 //8
         //UDDDUDUU
-        System.out.println(CountingValleys.countingValleys(8, "UDDDUDUU"));
+//        System.out.println(CountingValleys.countingValleys(8, "UDDDUDUU"));
+
+        List<Integer> listOne = new ArrayList<>();
+        List<Integer> listTwo = new ArrayList<>();
+
+        listOne.add(5);
+        listOne.add(6);
+        listOne.add(7);
+
+        listTwo.add(3);
+        listTwo.add(6);
+        listTwo.add(10);
+
+        System.out.println(CompareTriplets.compareTriplets(listOne, listTwo));
     }
 }
